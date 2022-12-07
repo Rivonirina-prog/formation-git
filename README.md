@@ -1,6 +1,7 @@
 #formation-git
-## Titre niveau 2
-
+## Titre niveau 2-1
+## Titre niveau 2-2
+### Titre niveau 3
 + 1
 + 2
 + 3
