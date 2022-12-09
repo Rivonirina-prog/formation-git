@@ -1,0 +1,6 @@
+[submodule "assets/bootstrap"]
+	path = assets/bootstrap
+	url = https://github.com/Rivonirina-prog/bootstrap.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = git@github.com:Rivonirina-prog/bootstrap.git
